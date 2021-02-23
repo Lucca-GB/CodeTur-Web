@@ -5,7 +5,7 @@ import reportWebVitals from './reportWebVitals';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {BrowserRouter as Router, Redirect, Route, Switch} from 'react-router-dom';
-
+import './index.css';
 import Login from './paginas/conta/login';
 import ResetarSenha from './paginas/conta/resetarsenha';
 import DashBoard from './paginas/admin/dashboard';
